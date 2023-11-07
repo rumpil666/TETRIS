@@ -1,0 +1,16 @@
+.page {
+  margin: 0 auto;
+  box-sizing: border-box;
+  max-width: 1400px;
+  min-width: 320px;
+  background-color: #780188;
+  color: red;
+  font-family: 'Segoe UI', 'Inter', Arial, sans-serif;
+  text-rendering: optimizeLegibility;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}

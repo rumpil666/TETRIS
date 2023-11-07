@@ -1,0 +1,8 @@
+.content__title {
+  margin: 50px auto 20px;
+  text-align: center;
+  background-image: linear-gradient(to right, red, orange, yellow, green, #00eeff, violet);
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
